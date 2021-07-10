@@ -1,3 +1,3 @@
-# Login-Register
- Login-Register project by using Spring-boot , hibernate and react js <br>
+# Login-Register backend
+ Login-Register project by using Spring-boot , hibernate <br>
  Meteksan Defence summer intern project
